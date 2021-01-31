@@ -17,7 +17,15 @@ A utility application that installs the content of an embedded zip file resource
 * You will be prompted to install .Net 5 if it is not present.
 * Unblock this executable if it is downloaded from a trusted source.
 
-Note: This is a WIP POC that was created mostly to determine how to use UWP APIs within a .Net 5 WPF app.  Thanks @mveril for your suggestions and lib. https://github.com/mveril
+Note: This is a WIP POC that was created mostly to determine how to use UWP APIs within a .Net 5 WPF app.
+
+## Credits
+* UI ideas: https://github.com/oleg-shilo/wixsharp
+* IInitializeWithWindow lib: https://github.com/mveril
+* Package handling ideas: https://github.com/colinkiama/UWP-Package-Installer , https://github.com/UWPX/UWPX-Installer
 
 ## Screenshot
 ![Screenshot](https://github.com/Noemata/AssetInstaller/raw/master/Screenshot.png)
+
+## Publish Settings
+![Screenshot](https://github.com/Noemata/AssetInstaller/raw/master/PublishSettings.png)
